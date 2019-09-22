@@ -1,9 +1,11 @@
-# git best! :P
-
 # git-good
 
-HI! This is Daniel!
+## Organizers
 
-You should have cloned first!
+1. Aditya Thakral
+2. Daniel Chen
+3. Daniel Wang
 
-This is a new branch!
+## Attendees
+
+1. 
