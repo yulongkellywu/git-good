@@ -8,4 +8,4 @@
 
 ## Attendees
 
-1. 
+1. Micah Beech 
