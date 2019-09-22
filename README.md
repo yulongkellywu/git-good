@@ -1,4 +1,4 @@
-# git more good!
+# git LESS good! :P
 
 # git-good
 
